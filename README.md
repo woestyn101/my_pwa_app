@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDus
 
 https://www.youtube.com/watch?v=yZ26CXny3iI
 
+https://www.tutorialspoint.com/indexeddb/indexeddb_error_handling.htm
+
 ## License
 
 MIT
