@@ -1,4 +1,4 @@
-# Tech Blog app
+# PWA TEXT EDITOR APP
 
 ## Description
 
