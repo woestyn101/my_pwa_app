@@ -17,7 +17,7 @@ During this project I learned how to use:
 
 ## Link to web app
 
-https://marius-blog-b90344ce9071.herokuapp.com
+https://my-pwa-app.onrender.com
 
 ## Installation
 
