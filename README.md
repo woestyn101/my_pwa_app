@@ -33,7 +33,7 @@ to create and edit a text online and offline.
 
 ## Screenshot of website
 
-![Website Screenshot](.images/app_screenshot.jpg)
+![Website Screenshot](./images/app_screenshot.jpg)
 
 ## Credits: Resources used
 
