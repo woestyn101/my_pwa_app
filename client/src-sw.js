@@ -31,8 +31,9 @@ registerRoute(
 
 ({ request }) => ['style', 'script', 'worker'].includes(request.destination),
 new StaleWhileRevalidate({
-  
+  // naming the cache
   cacheName: 'asset-cache',
+  //plugins to limit to 30 days
   plugins: [
   
     new CacheableResponsePlugin({
